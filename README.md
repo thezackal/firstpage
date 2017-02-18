@@ -1,5 +1,5 @@
-##firstpage
+#firstpage
 This is just a test page to see how github pages works.
 
-#next item
+##next item
 Some other stuff...
